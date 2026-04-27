@@ -41,6 +41,7 @@ Constraints:
 
 Take a deep breath and work on this problem step-by-step.
 ## Output
+[Fundamentals Of Generative Ai And Llms Report Gayathri Murugan.pdf](https://github.com/user-attachments/files/27112851/Fundamentals.Of.Generative.Ai.And.Llms.Report.Gayathri.Murugan.pdf)
 
     
 ## Result
